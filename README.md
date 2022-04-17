@@ -1,2 +1,2 @@
 # Math-Language
-Mathematical language project for CSC-330 Group 2
+Group 2 implementation of mathematical language for CSC-330 project
