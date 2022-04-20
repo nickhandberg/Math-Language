@@ -1,0 +1,1 @@
+ruby load "%1"
