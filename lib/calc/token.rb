@@ -17,4 +17,4 @@ module Calc
             @column = column
         end
     end
-end``
+end
